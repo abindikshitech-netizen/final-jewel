@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# frontend/backend node modules
+frontend/node_modules/
+backend/node_modules/
+
+# env
+.env
+
+# python
+__pycache__/
+
+# logs
+*.log
+
+# build
+build/
+dist/

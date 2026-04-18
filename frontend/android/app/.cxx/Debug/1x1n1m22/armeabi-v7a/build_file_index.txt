@@ -1,0 +1,6 @@
+D:\Abin\abin\virtualtryon\frontend\node_modules\@react-native-community\slider\android\src\main\jni\CMakeLists.txt
+D:\Abin\abin\virtualtryon\frontend\node_modules\react-native-image-picker\android\build\generated\source\codegen\jni\CMakeLists.txt
+D:\Abin\abin\virtualtryon\frontend\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+D:\Abin\abin\virtualtryon\frontend\node_modules\react-native-share\android\build\generated\source\codegen\jni\CMakeLists.txt
+D:\Abin\abin\virtualtryon\frontend\node_modules\react-native-view-shot\android\build\generated\source\codegen\jni\CMakeLists.txt
+D:\Abin\abin\virtualtryon\frontend\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt
