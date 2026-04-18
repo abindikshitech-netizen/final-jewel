@@ -1,19 +1,14 @@
-# dependencies
 node_modules/
 
-# frontend/backend node modules
-frontend/node_modules/
-backend/node_modules/
+# models (VERY IMPORTANT)
+*.pt
+*.pth
+backend/models/
 
-# env
-.env
+# outputs
+backend/outputs/
+backend/uploads/
 
-# python
-__pycache__/
-
-# logs
-*.log
-
-# build
-build/
-dist/
+# android build
+frontend/android/.cxx/
+frontend/android/.gradle/
