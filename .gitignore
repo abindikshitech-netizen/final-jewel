@@ -1,6 +1,7 @@
+# dependencies
 node_modules/
 
-# models (VERY IMPORTANT)
+# models
 *.pt
 *.pth
 backend/models/
@@ -9,6 +10,32 @@ backend/models/
 backend/outputs/
 backend/uploads/
 
-# android build
+# Android build files
 frontend/android/.cxx/
-frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/build/
+
+# Gradle
+.gradle/
+
+# React Native / Android
+*.apk
+*.aab
+
+# CMake / native
+.cxx/
+# python cache
+__pycache__/
+*.pyc
+
+# android native build
+frontend/android/app/.cxx/
+frontend/android/.cxx/
+
+# already add but keep
+frontend/android/app/build/
+frontend/android/build/
+
+backend/weights/
+*.pth
+*.pt
